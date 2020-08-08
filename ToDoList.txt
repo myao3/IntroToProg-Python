@@ -1,0 +1,4 @@
+Empty email box,Low
+Prepare Presentation,Medium
+Read and sign Contract,High
+Write weekly plan,Low
